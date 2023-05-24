@@ -239,12 +239,12 @@ def main(
         
       
         st.snow()
-        time.sleep(2.5)
+        time.sleep(3)
         st.balloons()
         st_player("https://soundcloud.com/mother-mother/hayloft-ii?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing")
-        time.sleep(2.5)
+        time.sleep(3)
         st.balloons()
-        time.sleep(2.5)
+        time.sleep(5)
         st.balloons()
        
 
