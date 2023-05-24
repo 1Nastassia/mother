@@ -221,9 +221,9 @@ def main(
     
     
     
-    st.sidebar.title('Веб-приложение для Насти')
-    st.sidebar.image('hi.JPG')
-    st.sidebar.info('Фамилия разработчика слишком известная :)')
+    st.sidebar.title('Веб-приложение для Мамы')
+    st.sidebar.image('mama.png')
+    st.sidebar.info('Веб-приложение сделано Настей :)')
     
     
     st.markdown("<h1 style='text-align: center; '>Это твоё простое, но такое гордое веб-приложение :).</h1>", unsafe_allow_html = True)
@@ -239,10 +239,10 @@ def main(
         
       
         st.snow()
-        time.sleep(3)
+        time.sleep(5)
         st.balloons()
         st_player("https://soundcloud.com/mother-mother/hayloft-ii?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing")
-        time.sleep(3)
+        time.sleep(5)
         st.balloons()
         time.sleep(5)
         st.balloons()
