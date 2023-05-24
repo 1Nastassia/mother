@@ -230,7 +230,7 @@ def main(
     #st.image('hi.jpg', width=400)
    
     
-    st_player("https://www.youtube.com/watch?v=CCHdMIEGaaM")
+    st_player("https://www.youtube.com/watch?v=DfnRxQ6jAKI")
     
 
     
@@ -241,7 +241,7 @@ def main(
         st.snow()
         time.sleep(2.5)
         st.balloons()
-        st_player("https://soundcloud.com/ahmed-mano-5/eminem_im-not-afraid")
+        st_player("https://soundcloud.com/mother-mother/hayloft-ii?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing")
         time.sleep(2.5)
         st.balloons()
         time.sleep(2.5)
